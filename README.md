@@ -11,7 +11,6 @@ package with:
 ```
 devtools::install_github("edzer/sf")
 devtools::install_github("tidyverse/ggplot2")
-devtools::install_github("thomasp85/ggforce")
 devtools::install_github("odeleongt/insetmap")
 ```
 
