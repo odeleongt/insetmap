@@ -9,7 +9,7 @@ You can install this package and some of its dependencies using the `devtools`
 package with:
 
 ```
-devtools::install_github("edzer/sfr")
+devtools::install_github("r-spatial/sf")
 devtools::install_github("tidyverse/ggplot2")
 devtools::install_github("odeleongt/insetmap")
 ```
